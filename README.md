@@ -1,5 +1,4 @@
-This is a smart assistant 
-It's funcionality is as follows:
- task automation
- web search
- system control
+This is a GAMING ARCADE that let's user choose from following set of games and simulations:
+Rock-Paper-Scissors
+Number guessing games
+Dice rolling simulation
